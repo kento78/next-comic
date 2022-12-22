@@ -1,7 +1,7 @@
 import { toast } from "react-toastify";
 
-export const BASE_URL = "https://next-comicszzz.vercel.app";
-export const API_URL = "http://www.nettruyenco.com";
+export const BASE_URL = "https://next-comic-liard.vercel.app";
+export const API_URL = "https://www.nettruyenking.com";
 export const API_CLOUDINARY =
   "https://api.cloudinary.com/v1_1/annnn/image/upload";
 export const UPLOAD_KEY = `${process.env.NEXT_PUBLIC_UPLOAD_KEY}`;

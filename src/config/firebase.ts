@@ -8,13 +8,13 @@ import { getFirestore } from "firebase/firestore";
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCYuq5QCkLjTXbYKFlKXnoYdNdMZ7UHXoc",
-  authDomain: "next-comics.firebaseapp.com",
-  projectId: "next-comics",
-  storageBucket: "next-comics.appspot.com",
-  messagingSenderId: "337682062073",
-  appId: "1:337682062073:web:ba524fd545e08e37ca6028",
-  measurementId: "G-X4F5HKYCDX",
+  apiKey: "AIzaSyA2M7qbHJFEzyCbL55wpXy48qsYhRFQG3E",
+  authDomain: "manga-60070.firebaseapp.com",
+  projectId: "manga-60070",
+  storageBucket: "manga-60070.appspot.com",
+  messagingSenderId: "334396807307",
+  appId: "1:334396807307:web:4507efa6a5f9cb7f215c8e",
+  measurementId: "G-1KS2XY9Q51",
 };
 
 const app = initializeApp(firebaseConfig);
